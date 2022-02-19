@@ -6,7 +6,6 @@ Change the CSS size and coordinates of the images to fit your needs. I also prov
 
 This simple animation uses 6 frames, but you could definitely add more frames. It is animated frame by frame. 
 
-
 ![alt text](https://github.com/SarahBass/Fitbitanimatesprite/blob/main/animated%20sprite.png)
 
 Contents: | Description:
